@@ -1,0 +1,61 @@
+1
+int first , second ;
+int max ,second  ;
+if ( ( first > second ) && ( second > 0 ) )
+  if ( second > -35 )
+    max = 35 - second ;
+  else 
+    max = second - 35 ; }
+else { // NOT ( ( first > second ) && ( second > 0 ) )
+  second++ ;
+  max = second ;
+} // else
+Done() ;
+int x(int y[7],int first  ,int  second, int max){
+   if((first>  second  ) &&( second>0)  
+ )max = first--;
+else max= second ; }
+ListFunction( "x" ) ;
+Done() ;
+
+int first ;
+int second, max ;
+ListVariable("max") ;
+int AddTwo( int x, int &z [30],int y[30], int a ) { int y[10], xx[3]; xx=3 ;z = z+3;}          // comment
+ListFunction("AddTwo") ;
+int AddTwo( int x, int &z [30],int y[30], int a ) { int y }          // comment
+int AddFive( int x, int &z [30],int y[30], int a ) { int y ; y = AddTwo(5) ; // comment
+     y++;       z = z + 3 ;           return y + 3 ; }          // comment
+AddFive( max );
+AddFive( true );
+AddFive( .35 );
+AddFive(  );
+ListVariable("max") ;
+
+int a; { int b; { int c; } b = c; } 
+AddFive( a,  a ) ;
+AddFive(  y[30], z [30] ) ;
+AddFive(  a[30],  a [30] , a ) ;
+AddFive( int a, int & a ) ;
+AddFive( int y[30], int &z [30] ) ;
+AddFive( int a[30], int &  a [30] , int a ) ;
+
+int AddTwo( int x, int &z [30],int y[30], int a ) { int y, xx;xx=3 ; }          // comment
+int AddTwo( int x, int &z [30],int y[30], int a ) { int y, xx;xx=3  }          // comment
+int AddFive( int x, int &z [30],int y[30], int a ) { int y ; y = AddTwo(5) ; // comment
+     y++;       z = z + 3 ;           return y + 3 ; }          // comment
+AddFive( max );
+AddFive( true );
+AddFive( .35 );
+AddFive(  );
+ListVariable("max") ;
+
+int a; { int b; { int c; } b = c; } 
+AddFive( a,  a ) ;
+AddFive(  y[30], z [30] ) ;
+AddFive(  a[30],  a [30] , a ) ;
+AddFive( int a, int & a ) ;
+AddFive( int y[30], int &z [30] ) ;
+AddFive( int a[30], int &  a [30] , int a ) ;
+
+Done() ;
